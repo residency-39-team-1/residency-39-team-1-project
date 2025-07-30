@@ -23,10 +23,17 @@
 ## Project Documentation
 - **Link to PRD:** https://www.notion.so/codingtemple/Loopy-PRD-Participants-237d15b03f0a80b49391d1dd97f3694b?source=copy_link
 - [Link to team workspace]
-- **Link to Gitflow.md:** https://github.com/meissparker/residency-39-team-1-project/blob/24b20b6e9100d5134ff8240494a7e00839b9c64f/GITFLOW.md
+- **Link to Gitflow.md:** https://github.com/residency-39-team-1/residency-39-team-1-project/blob/main/Gitflow.MD
   
-
 ## Team Communication
 - **Daily Standups:** Monday, Wednesday, Friday at 6 EST on Zoom.
 - **Sprint Reviews:** [Schedule]
 - **Team Chat:** Slack channel
+
+## Ideas for First Epics/Sprints
+**Sprint 0:** 
+- Team onboarding and React Native basics (components, navigation)-Frontend
+- Firebase project setup and Firestore introduction-Backend
+- Basic design system creation and emotional UX principles-Frontend
+- Simple authentication setup (Firebase Auth)-CyberSecurity
+- Learn onSnapshot basics with simple examples-Backend
