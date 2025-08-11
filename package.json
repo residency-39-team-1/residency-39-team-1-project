@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "expo-router": "^5.1.4",
+    "firebase": "^12.1.0",
+    "lottie-react-native": "7.2.2",
+    "expo-haptics": "~14.1.4",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "5.4.0",
+    "expo-image-picker": "~16.1.4"
+  }
+}
